@@ -22,7 +22,6 @@ numpy==1.24.1
 packaging==23.0
 Pillow==9.4.0
 pyparsing==3.0.9
-pypiwin32==223
 PySimpleGUI==4.60.4
 python-dateutil==2.8.2
 pyttsx3==2.90
